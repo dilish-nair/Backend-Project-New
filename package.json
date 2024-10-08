@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Creating Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Dilish",
+    "Backend",
+    "Project"
+  ],
+  "author": "Dilish N Nair",
+  "license": "ISC"
+}

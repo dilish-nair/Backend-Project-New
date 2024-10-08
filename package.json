@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Creating Backend Project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Dilish",
@@ -12,5 +13,8 @@
     "Project"
   ],
   "author": "Dilish N Nair",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
